@@ -1,4 +1,3 @@
-import { loadConfigFromFile } from "vite";
 import {
   outlineStarTemplate,
   productGroup,
